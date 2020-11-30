@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World Leticia - Rafa - Aristides muchas gracias :)!</h2>
+<h2>Hello World!</h2>
 </body>
 </html>
